@@ -1,0 +1,14 @@
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.AssemblyInfoInputs.cache
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.AssemblyInfo.cs
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.csproj.CoreCompileInputs.cache
+C:\Users\uSeR\Desktop\work\art\TestGrading\bin\Debug\net6.0\TestGrading.exe
+C:\Users\uSeR\Desktop\work\art\TestGrading\bin\Debug\net6.0\TestGrading.deps.json
+C:\Users\uSeR\Desktop\work\art\TestGrading\bin\Debug\net6.0\TestGrading.runtimeconfig.json
+C:\Users\uSeR\Desktop\work\art\TestGrading\bin\Debug\net6.0\TestGrading.dll
+C:\Users\uSeR\Desktop\work\art\TestGrading\bin\Debug\net6.0\TestGrading.pdb
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.dll
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\refint\TestGrading.dll
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.pdb
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\TestGrading.genruntimeconfig.cache
+C:\Users\uSeR\Desktop\work\art\TestGrading\obj\Debug\net6.0\ref\TestGrading.dll
